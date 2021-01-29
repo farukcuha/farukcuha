@@ -3,7 +3,8 @@
     </div>
 
 * He is a
-      * Developer
-      * Imaginer
-      * Drinker
-      * Eater
+  * Developer
+  * Imaginer
+  * Drinker
+  * Eater
+  in every subject.
