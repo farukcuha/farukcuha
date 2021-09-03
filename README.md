@@ -1,7 +1,9 @@
 
 ## Hi 🧑🏻 I am Aamet
 
-👨🏻‍💻 I like to learn about new technology about android and develop nice android apps by use them.
+![](https://komarev.com/ghpvc/?username=farukcuha&color=blue)
+
+👨🏻‍💻 I learn new technology about android and develop nice android apps by use them in a country where the economy getting worse.
 
 👨🏻‍🎓 I am currently studying Computer Engineering at Erciyes Universty.
 
@@ -21,7 +23,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
 </a>
 
-<a href="mailto:ahmetfarukucha@gmail.com">
+<a href="mailto:ahmetfarukucuha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
 </a>
 
