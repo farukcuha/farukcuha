@@ -7,7 +7,7 @@
 
 👨🏻‍💻 I learn new technology about android and develop nice android apps by use them in a country where the economy getting worse.
 
-👨🏻‍🎓 I am currently studying Computer Engineering at Erciyes Universty.
+👨🏻‍🎓 I am currently studying Computer Engineering at Erciyes University.
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
