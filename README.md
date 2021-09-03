@@ -1,6 +1,8 @@
 
 ## Hi 🧑🏻 I am Aamet
 
+<img src="thanos.gif" alt="linkedin"> 
+
 ![](https://komarev.com/ghpvc/?username=farukcuha&color=blue)
 
 👨🏻‍💻 I learn new technology about android and develop nice android apps by use them in a country where the economy getting worse.
