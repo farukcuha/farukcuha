@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=farukcuha&color=blue)
 
-👨🏻‍💻 I learn new technology about android and develop nice android apps by use them in a country where the economy getting worse.
+👨🏻‍💻 I learn new technology about android and develop nice android apps by use them.
 
 👨🏻‍🎓 I am currently studying Computer Engineering at Erciyes University.
 
