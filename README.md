@@ -1,7 +1,5 @@
 
-## Hi 🧑🏻 I am Aamet
-
-<img src="thanos.gif" alt="linkedin"> 
+## Hi
 
 ![](https://komarev.com/ghpvc/?username=farukcuha&color=blue)
 
