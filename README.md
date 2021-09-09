@@ -7,6 +7,8 @@
 
 👨🏻‍🎓 I am currently studying Computer Engineering at Erciyes University.
 
+🎮 Also I am a conqueror of Age of Empires and good head shooter of CS:GO.
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
 
@@ -27,8 +29,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
 </a>
 
+<img src="working_anim.gif" width="300px" alt="gif"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukcuha&show_icons=true&theme=dark)](https://github.com/farukcuha/README.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farukcuha&repo=KekodChallenge2NewsApps)](https://github.com/farukcuha/KekodChallenge2NewsApps)
+
 
 
 
