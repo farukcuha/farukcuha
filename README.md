@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
 
+<img src="working_anim.gif" width="300px" alt="gif"> 
+
 ### Contact me!
 <a href="https://www.linkedin.com/in/ahmet-faruk-%C3%A7uha-5a8209116/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> 
@@ -28,8 +30,6 @@
 <a href="mailto:ahmetfarukucuha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
 </a>
-
-<img src="working_anim.gif" width="300px" alt="gif"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukcuha&show_icons=true&theme=dark)](https://github.com/farukcuha/README.md)
 
