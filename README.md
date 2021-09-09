@@ -32,8 +32,6 @@
 <img src="working_anim.gif" width="300px" alt="gif"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukcuha&show_icons=true&theme=dark)](https://github.com/farukcuha/README.md)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farukcuha&repo=KekodChallenge2NewsApps)](https://github.com/farukcuha/KekodChallenge2NewsApps)
-
 
 
 
