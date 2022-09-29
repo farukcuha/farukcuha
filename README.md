@@ -1,5 +1,5 @@
 
-## Hi humans!
+## Hi!
 
 ![](https://komarev.com/ghpvc/?username=farukcuha&color=blue)
 
