@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukcuha&show_icons=true&theme=light)](https://github.com/farukcuha/README.md)
 
 
 
