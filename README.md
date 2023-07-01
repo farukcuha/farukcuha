@@ -5,8 +5,6 @@
 
 ### 👨🏻‍💻 Hi there! I'm Ahmet Faruk Çuha, a skilled developer with a passion for creating native mobile apps using Kotlin for Android. I also have experience developing web apps, and I always strive to write clean, efficient code that achieves results without unnecessary complexity.
 
-[My Resume](https://resume.ahmetfarukcuha.me)
-
 <a href="https://www.linkedin.com/in/ahmet-faruk-%C3%A7uha-5a8209116/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> 
 </a>
